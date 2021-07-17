@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 1
+Sheet 1 2
 Title ""
 Date ""
 Rev ""
@@ -648,4 +648,10 @@ Wire Wire Line
 Connection ~ 5750 5550
 Wire Wire Line
 	5750 5550 5750 5700
+$Sheet
+S 2850 3850 900  300 
+U 60F37F8A
+F0 "matrix" 50
+F1 "Matrix.sch" 50
+$EndSheet
 $EndSCHEMATC
